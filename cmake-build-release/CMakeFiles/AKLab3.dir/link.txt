@@ -1,0 +1,1 @@
+/usr/bin/c++   -static-libstdc++ -static-libgcc -O3 -DNDEBUG   CMakeFiles/AKLab3.dir/main.cpp.o  -o AKLab3 
